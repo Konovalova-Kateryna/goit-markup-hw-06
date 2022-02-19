@@ -713,10 +713,10 @@ img {
   color: var(--black-color);
   margin-bottom: 12px;
 }
-.modal-field:not(:last-child) {
+.modal-field {
   margin-bottom: 10px;
 }
-.inputs {
+.coment-field {
   margin-bottom: 20px;
 }
 .modal-label {
